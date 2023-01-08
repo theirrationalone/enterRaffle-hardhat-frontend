@@ -1,6 +1,6 @@
 This is a Raffle/Lottery Frontend project bootstrapped with Hardhat.
 
-## Setting Up Things
+## Setting Up Things🚀🚀🚀
 
 Go [here](https://github.com/theirrationalone/enterRaffle-hardhat.git) and download that Repository. After that Try Running this command given below...
 
