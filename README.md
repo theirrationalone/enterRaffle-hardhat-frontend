@@ -28,4 +28,10 @@ After Adding Entrants/Players into Raffle/Lottery, Go back to backend project, o
 npx hardhat run ./scripts/enterRaffle.js --network localhost
 ```
 
+## My IPFS Pin: ipfs://bafybeiazi3xadfg3ik3ci53jsxxblureioh3vyiedoyhbtycldo3kndw7i/
+
+## Web3 on kinda Centralized Host [fleex.co/mySite](https://rapid-king-8015.on.fleek.co/)
+
+## Fleex IPFS Pin: ipfs://QmRBeKb8ZYn7TyiXdXyYEjJDnFZCLKNq3RyJ1V9x7DN2y1
+
 # Thank You! :) 🏴‍☠️
