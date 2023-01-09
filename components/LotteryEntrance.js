@@ -142,6 +142,7 @@ const LotteryEntrance = () => {
             <button
                 className="text-white font-bold py-4 px-8 bg-violet-700 rounded-md hover:bg-violet-900"
                 onClick={enterRaffleHandler}
+                disabled={isFetching || isLoading}
             >
                 {isLoading || isFetching ? (
                     <div className="animate-spin border border-white w-10 h-10 border-t-2 rounded-full"></div>
